@@ -1,0 +1,5 @@
+# Security Policy 2024 (Excerpt)
+
+## BYOD and Exceptions
+Use of personal devices requires a security exception. Employees must request approval stating device type, purpose, and duration.
+High sensitivity data must not be stored on personal devices. Access may be revoked at any time.
