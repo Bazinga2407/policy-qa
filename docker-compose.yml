@@ -8,3 +8,5 @@ services:
     volumes:
       - ./storage:/app/storage
       - ./data:/app/data
+    environment:
+      - PYTHONPATH=/app
